@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm David. 👋
+## Hi! I'm David. 👋
 
 - 🔭 I’m currently working on creating a modular synthesizer and improving my algorithmics skills.
 - 🌱 I’m currently learning how to code in C++.
