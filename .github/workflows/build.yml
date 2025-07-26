@@ -17,6 +17,7 @@ jobs:
           architecture: x64
       - name: 'Update README'
         run: |-
+          ls
           python updater.py
           cat README.md
       - name: 'Commit and push'
