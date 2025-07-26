@@ -1,4 +1,6 @@
 name: Update README
+permissions:
+  contents: write
 on:
   push:
   workflow_dispatch:
@@ -23,8 +25,8 @@ jobs:
       - name: 'Commit and push'
         run: |-
           git diff
-          git config --global user.email "183250896+MadAvidCoder@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "MadREADMEBot"
           git add -A
           git commit -m "Changed question" || exit 0
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/MadAvidCoder/MadAvidCoder.git HEAD:main
