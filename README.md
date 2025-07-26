@@ -21,5 +21,5 @@
 <sup><sub>A new question will appear every three hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
 
 <!-- Links -->
-[Option 1]: https://voting.madavidcoder.hackclub.app/option-1
-[Option 2]: https://voting.madavidcoder.hackclub.app/option-2
+[Option 1]: https://froggerapi.madavidcoder.hackclub.app/option-1
+[Option 2]: https://froggerapi.madavidcoder.hackclub.app/option-2
