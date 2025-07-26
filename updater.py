@@ -26,7 +26,7 @@ def make_shield(label, endpoint):
 
 root_path = pathlib.Path(__file__).parent.resolve()
 
-readme_path = root_path / '../README.md'
+readme_path = root_path / 'README.md'
 
 readme = readme_path.open().read()
 q, a = pick_random_question()
