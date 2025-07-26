@@ -22,7 +22,7 @@
 ![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-2&query=%24.value&label=Grid&dummyresetter2=123)
 <!-- Results 2 ends -->
 ---
-<sup><sub>A new question will appear every three hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
+<sup><sub>A new question will appear every six hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
 
 <!-- Links -->
 [Option 1]: https://froggerapi.madavidcoder.hackclub.app/option-1
