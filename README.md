@@ -19,7 +19,7 @@
 ![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-1&query=%24.value&label=Vim&dummyresetter1=889)
 <!-- Results 1 ends -->
 <!-- Results 2 starts -->
-![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-2&query=%24.value&label=Emacs&dummyresetter2=800)
+![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-2&query=%24.value&label=Emacs&dummyresetter2=599)
 <!-- Results 2 ends -->
 ---
 <sup><sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
