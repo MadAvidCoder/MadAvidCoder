@@ -16,10 +16,10 @@
 [<kbd> <br> <!-- Option 2 starts -->Light Mode<!-- Option 2 ends --> <br> </kbd>][Option 2]
 #### Here's what the internet thinks!
 <!-- Results 1 starts -->
-![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-1&query=%24.value&label=Dark%20Mode&dummyresetter1=605)
+![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-1&query=%24.value&label=Dark%20Mode&dummyresetter1=313)
 <!-- Results 1 ends -->
 <!-- Results 2 starts -->
-![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-2&query=%24.value&label=Light%20Mode&dummyresetter2=998)
+![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffroggerapi.madavidcoder.hackclub.app%2Fresults-2&query=%24.value&label=Light%20Mode&dummyresetter2=582)
 <!-- Results 2 ends -->
 ---
 <sup><sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
