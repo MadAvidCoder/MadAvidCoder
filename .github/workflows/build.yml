@@ -23,7 +23,7 @@ jobs:
           python updater.py
           cat README.md
       - name: 'Reset vote counts'
-        run: curl -v froggerapi.madavidcoder.hackclub.app/reset
+        run: curl -v readmeprogrammerdebates-production.up.railway.app/reset
       - name: 'Commit and push'
         run: |-
           git diff
