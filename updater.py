@@ -22,7 +22,7 @@ def pick_random_question():
     return question, options
 
 def make_shield(label, endpoint):
-    return '![Results {}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-{}&query=%24.value&label={}&dummyresetter{}=123&cacheSeconds=0&t=1)'.format(endpoint, endpoint, label.replace(' ', '%20'),endpoint)
+    return '![Results {}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-{}&query=value&label={}&dummyresetter{}=123&cacheSeconds=0&t=1)'.format(endpoint, endpoint, label.replace(' ', '%20'),endpoint)
 
 root_path = pathlib.Path(__file__).parent.resolve()
 
