@@ -10,16 +10,16 @@
 - ⚡ Fun fact: I love Raspberry Pis!
 
 ## Programmer Debate
-### <!-- Question starts -->Is Vim or Emacs better?<!-- Question ends -->
+### <!-- Question starts -->Is Git Rebase or Git Merge better?<!-- Question ends -->
 #### Vote
-[<kbd> <br> <!-- Option 1 starts -->Vim<!-- Option 1 ends --> <br> </kbd>][Option 1]
-[<kbd> <br> <!-- Option 2 starts -->Emacs<!-- Option 2 ends --> <br> </kbd>][Option 2]
+[<kbd> <br> <!-- Option 1 starts -->Git Rebase<!-- Option 1 ends --> <br> </kbd>][Option 1]
+[<kbd> <br> <!-- Option 2 starts -->Git Merge<!-- Option 2 ends --> <br> </kbd>][Option 2]
 #### Here's what the internet thinks!
 <!-- Results 1 starts -->
-![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-1&query=value&label=Vim&dummyresetter1=538&cacheSeconds=0&t=1)
+![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-1&query=value&label=Git%20Rebase&dummyresetter1=123&cacheSeconds=0&t=1)
 <!-- Results 1 ends -->
 <!-- Results 2 starts -->
-![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-2&query=value&label=Emacs&dummyresetter2=442&cacheSeconds=0&t=1)
+![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-2&query=value&label=Git%20Merge&dummyresetter2=123&cacheSeconds=0&t=1)
 <!-- Results 2 ends -->
 ---
 <sup><sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
