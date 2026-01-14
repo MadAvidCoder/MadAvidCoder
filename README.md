@@ -22,7 +22,8 @@
 ![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Freadmeprogrammerdebates-production.up.railway.app%2Fresults-2&query=value&label=4%20Spaces&dummyresetter2=123&cacheSeconds=0&t=1)
 <!-- Results 2 ends -->
 ---
-<sup><sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub></sub>  
+<sup>**Due to forced GitHub image caching, it may take up to 5-10mins for the vote count to update.** <br>
+<sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub> 
 
 <!-- Links -->
 [Option 1]: https://readmeprogrammerdebates-production.up.railway.app/option-1
