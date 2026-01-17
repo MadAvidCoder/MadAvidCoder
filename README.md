@@ -26,5 +26,5 @@
 <sub>A new question will appear every eight hours, check [MadAvidCoder/ReadmeProgrammerDebates](https://github.com/MadAvidCoder/ReadmeProgrammerDebates) to see how it works!</sub> 
 
 <!-- Links -->
-[Option 1]: https://readme-programmer-debates.vercel.app//option-1
-[Option 2]: https://readme-programmer-debates.vercel.app/option-2
+[Option 1]: https://madavidcoder.pythonanywhere.com/option-1
+[Option 2]: https://madavidcoder.pythonanywhere.com/option-2
