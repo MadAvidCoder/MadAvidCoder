@@ -23,7 +23,7 @@ jobs:
           python updater.py
           cat README.md
       - name: 'Reset vote counts'
-        run: curl -vL https://readme-programmer-debates.vercel.app/reset
+        run: curl -vL https://madavidcoder.pythonanywhere.com/reset
       - name: 'Commit and push'
         run: |-
           git diff
