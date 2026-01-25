@@ -16,10 +16,10 @@
 [<kbd> <br> <!-- Option 2 starts -->Tabs<!-- Option 2 ends --> <br> </kbd>][Option 2]
 #### Here's what the internet thinks!
 <!-- Results 1 starts -->
-![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-1&query=value&label=Spaces&dummyresetter1=648&cacheSeconds=0&t=1)
+![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-1&query=value&label=Spaces&dummyresetter1=746&cacheSeconds=0&t=1)
 <!-- Results 1 ends -->
 <!-- Results 2 starts -->
-![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-2&query=value&label=Tabs&dummyresetter2=203&cacheSeconds=0&t=1)
+![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-2&query=value&label=Tabs&dummyresetter2=912&cacheSeconds=0&t=1)
 <!-- Results 2 ends -->
 ---
 <sup>**Due to forced GitHub image caching, it may take up to 5-10mins for the vote count to update.** <br>
