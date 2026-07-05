@@ -16,7 +16,7 @@
 [<kbd> <br> <!-- Option 2 starts -->Emacs<!-- Option 2 ends --> <br> </kbd>][Option 2]
 #### Here's what the internet thinks!
 <!-- Results 1 starts -->
-![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-1&query=value&label=Vim&dummyresetter1=430&cacheSeconds=0&t=1)
+![Results 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-1&query=value&label=Vim&dummyresetter1=655&cacheSeconds=0&t=1)
 <!-- Results 1 ends -->
 <!-- Results 2 starts -->
 ![Results 2](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmadavidcoder.pythonanywhere.com%2Fresults-2&query=value&label=Emacs&dummyresetter2=219&cacheSeconds=0&t=1)
